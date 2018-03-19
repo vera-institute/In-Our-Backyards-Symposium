@@ -1,3 +1,5 @@
+<img width=200 src="https://github.com/vera-institute/In-Our-Backyards-Symposium/blob/master/vera-logo.png?raw=true"/>
+
 # In-Our-Backyards-Symposium
 
 <img width=875 src="https://github.com/vera-institute/In-Our-Backyards-Symposium/blob/master/iob-cfp-banner.jpg?raw=true"/>
