@@ -45,23 +45,17 @@ The Vera Institute of Justice works to build and create justice systems that ens
 
 The symposium and the development of the public-use county-level incarceration dataset is funded through the In Our Backyards project by Google.org as part of its Inclusion and Racial Justice work. In Our Backyards is a Vera’s research and communications agenda to inform the public dialogue, advance research, and guide change to justice policy and practice on mass incarceration.
 
-Submission deadline: Tuesday, May 8, 2018
-
-Decision by: Tuesday, June 5, 2018
-
-Location: New York City
-
-Event dates: Thursday and Friday, October 25 and 26, 2018
-
-Duration: 1.5 day symposium
-
-Host: The Vera Institute of Justice
-
+Submission deadline: Tuesday, May 8, 2018<br>
+Decision by: Tuesday, June 5, 2018<br>
+Location: New York City<br>
+Event dates: Thursday and Friday, October 25 and 26, 2018<br>
+Duration: 1.5 day symposium<br>
+Host: The Vera Institute of Justice<br>
 
 
 ## Files
 
-- **IOB-Symposium-CFP.pdf**: The call for papers
-- **IOB-Codebook.pdf**: Codebook for the In-Our-Backyards Dataset
-- **Methodology-for-Incarceration-Trends-Project-V2.pdf**: Methods used to generate jail data by county.
-- **Methodology-for-Prison-By-County-Data.pdf**: Methods used to generate prison data by county.
+- **[IOB-Symposium-CFP.pdf](https://github.com/vera-institute/In-Our-Backyards-Symposium/blob/master/IOB-Symposium-CFP.pdf?raw=true)**: The call for papers
+- **[IOB-Codebook.pdf](https://github.com/vera-institute/In-Our-Backyards-Symposium/blob/master/IOB-Codebook.pdf?raw=true)**: Codebook for the In-Our-Backyards Dataset
+- **[Methodology-for-Incarceration-Trends-Project-V2.pdf](https://github.com/vera-institute/In-Our-Backyards-Symposium/blob/master/Methodology-for-Incarceration-Trends-Project-V2.pdf?raw=true)**: Methods used to generate jail data by county.
+- **[Methodology-for-Prison-By-County-Data.pdf](https://github.com/vera-institute/In-Our-Backyards-Symposium/blob/master/Methodology-for-Prison-By-County-Data.pdf?raw=true)**: Methods used to generate prison data by county.
