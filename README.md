@@ -23,7 +23,7 @@ The Vera Institute of Justice invites the submission of papers to an interdiscip
 
 The unprecedented scale of incarceration in the United States has many political, economic, and social effects. We hope that you will join us for a research symposium that explores changes in the carceral landscape and their impacts on American society.
 
-This inaugural symposium leverages the uniquely detailed historical dataset of incarceration in local jails and state prisons that the Vera Institute of Justice developed to explore the use of incarceration at the county level. The Vera dataset is sourced from Bureau of Justice Statistics data collections: Jail admission and population data is sourced from the Annual Survey of Jails (1985-2015), Census of Jails (1970-2013), and Death in Custody Reporting Program (2000-2013). Prison admission and population data is sourced from the National Corrections Reporting Program (1983-2015) and National Prisoner Statistics Program (1970-2016), and supplemented with data from state departments of corrections, when available.
+This inaugural symposium leverages the uniquely detailed historical dataset of incarceration in local jails and state prisons that the Vera Institute of Justice developed to explore the use of incarceration at the county level. The Vera dataset is sourced from Bureau of Justice Statistics data collections: Jail admission and population data is sourced from the Annual Survey of Jails (1985-2015), Census of Jails (1970-2013), and Death in Custody Reporting Program (2000-2013). Prison admission and population data is sourced from the National Corrections Reporting Program (1983-2015), and supplemented with data from state departments of corrections, when available.
 
 It is largely county officials—judges, prosecutors, people who manage jails—that decide how communities use incarceration (i.e., who is sent to jail and prison, and for how long). Thus, county-level variability makes for more robust, theoretically-grounded studies of the causes and impacts of high rates of incarceration seen across the United States. Furthermore, recent social dynamics and policy changes at various political scales have driven jail and prison populations down in some locales, and up in others, a phenomena that is masked in state-level data used in most studies of incarceration’s impacts.
 
@@ -60,4 +60,8 @@ Host: The Vera Institute of Justice
 
 
 ## Files
-IOB Symposium CFP.pdf
+
+- **IOB-Symposium-CFP.pdf**: The call for papers
+- **IOB-Codebook.pdf**: Codebook for the In-Our-Backyards Dataset
+- **Methodology-for-Incarceration-Trends-Project-V2.pdf**: Methods used to generate jail data by county.
+- **Methodology-for-Prison-By-County-Data.pdf**: Methods used to generate prison data by county.
