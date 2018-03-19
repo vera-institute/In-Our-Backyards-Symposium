@@ -6,7 +6,9 @@ https://www.vera.org/projects/in-our-backyards
 
 
 **Incarceration**
+
 A Vera Institute of Justice Research Symposium
+
 October 25 and 26, 2018
  
 The Vera Institute of Justice invites the submission of papers to an interdisciplinary symposium exploring the use of incarceration in the United States.
@@ -24,6 +26,29 @@ We invite submissions from advanced graduate students, faculty, independent or p
 Submissions should include an abstract of 150-500 words and a brief biographical statement and CV. Please submit all materials by May 8, 2018.
 
 We request that submissions be made through email to trends@vera.org. 
+
+If you have questions, please contact Vera at trends@vera.org or Jacob Kang-Brown by mail at 233 Broadway, 12th Floor, New York, NY 10279. 
+ 
+If selected, applicants will be notified by June 5, 2018. Completed papers will be due on September 30, 2018. 
+
+Transportation to and from the conference, as well as room and board during the conference will be covered for each selected applicant. 
+ 
+The Vera Institute of Justice works to build and create justice systems that ensure fairness, promote safety, and strengthen communities. 
+
+The symposium and the development of the public-use county-level incarceration dataset is funded through the In Our Backyards project by Google.org as part of its Inclusion and Racial Justice work. In Our Backyards is a Vera’s research and communications agenda to inform the public dialogue, advance research, and guide change to justice policy and practice on mass incarceration.
+ 
+Submission deadline: Tuesday, May 8, 2018
+
+Decision by: Tuesday, June 5, 2018
+
+Location: New York City
+
+Event dates: Thursday and Friday, October 25 and 26, 2018
+
+Duration: 1.5 day symposium
+
+Host: The Vera Institute of Justice
+
 
 
 ## Files
