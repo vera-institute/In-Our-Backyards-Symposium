@@ -1,4 +1,4 @@
-<img width=200 src="https://github.com/vera-institute/In-Our-Backyards-Symposium/blob/master/vera-logo.png?raw=true" alt"Vera Institute of Justice Logo"/>
+<img width=200 src="https://github.com/vera-institute/In-Our-Backyards-Symposium/blob/master/vera-logo.png?raw=true" alt="Vera Institute of Justice Logo"/>
 
 # In-Our-Backyards-Symposium
 
