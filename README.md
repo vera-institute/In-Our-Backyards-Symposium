@@ -28,7 +28,7 @@ This inaugural symposium leverages the uniquely detailed historical dataset of i
 
 It is largely county officials—judges, prosecutors, people who manage jails—that decide how communities use incarceration (i.e., who is sent to jail and prison, and for how long). Thus, county-level variability makes for more robust, theoretically-grounded studies of the causes and impacts of high rates of incarceration seen across the United States. Furthermore, recent social dynamics and policy changes at various political scales have driven jail and prison populations down in some locales, and up in others, a phenomena that is masked in state-level data used in most studies of incarceration’s impacts.
 
-Participants in the symposium will be granted early access to the Vera dataset—which will be published later this year—if they agree not to distribute or publish prior to the symposium. Full terms are in the registration material.
+Participants in the symposium will be granted early access to the Vera dataset—which will be published later this year—if they agree not to distribute or publish prior to the symposium. Full terms of the data sharing agreement will be available shortly.
 
 We invite submissions from advanced graduate students, faculty, independent or policy researchers. We expect that a number of papers responsive to this call will provide new insights on the burden of high rates of incarceration, the health, social, and economic consequences for individuals and communities, and insight into emerging policy issues and problems. Papers are asked to engage with the data that is available, but not all papers need to be quantitative or empirical in nature. We welcome submissions from across the social sciences and humanities, economics and data science.
 
@@ -61,4 +61,4 @@ Photo credit: Jack Norton. Huerfano County Correctional Facility, built in 1997 
 - **[IOB-Symposium-CFP.pdf](https://github.com/vera-institute/In-Our-Backyards-Symposium/blob/master/IOB-Symposium-CFP.pdf?raw=true)**: The call for papers
 - **[IOB-Codebook.pdf](https://github.com/vera-institute/In-Our-Backyards-Symposium/blob/master/IOB-Codebook.pdf?raw=true)**: Codebook for the In-Our-Backyards Dataset
 - **[Methodology-for-Incarceration-Trends-Project-V2.pdf](https://github.com/vera-institute/In-Our-Backyards-Symposium/blob/master/Methodology-for-Incarceration-Trends-Project-V2.pdf?raw=true)**: Methods used to generate jail data by county.
-- **[Methodology-for-Prison-By-County-Data.pdf](https://github.com/vera-institute/In-Our-Backyards-Symposium/blob/master/Methodology-for-Prison-By-County-Data.pdf?raw=true)**: Methods used to generate prison data by county.
+- **[Workingpaper_Reconstructing-How-Counties-Contribute-to-State-Prisons.pdf](https://github.com/vera-institute/In-Our-Backyards-Symposium/blob/master/Workingpaper_Reconstructing-How-Counties-Contribute-to-State-Prisons.pdf?raw=true)**: Methods used to generate prison data by county.
