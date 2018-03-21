@@ -7,7 +7,7 @@
 The Vera Institute will host a research symposium on incarceration on Thursday and Friday October 25 and 26, 2018. The call for papers is available now. Submissions are due May 8, 2018.
 
 All documents associated with the call for papers can be downloaded by
-using the green "Clone or download" link above and to the right.
+using the links at the bottom of this page, or as a [zipfile here](https://github.com/vera-institute/In-Our-Backyards-Symposium/archive/master.zip).
 
 For more information about the In Our Backyards project visit:
 https://www.vera.org/projects/in-our-backyards
@@ -33,9 +33,9 @@ We invite submissions from advanced graduate students, faculty, independent or p
 
 Submissions should include an abstract of 150-500 words and a brief biographical statement and CV. Please submit all materials by May 8, 2018.
 
-We request that submissions be made through email to trends@vera.org.
+We request that submissions be made through email to <trends@vera.org>.
 
-If you have questions, please contact Vera at trends@vera.org or Jacob Kang-Brown by mail at 233 Broadway, 12th Floor, New York, NY 10279.
+If you have questions, please contact Vera at <trends@vera.org> or Jacob Kang-Brown by mail at 233 Broadway, 12th Floor, New York, NY 10279.
 
 If selected, applicants will be notified by June 5, 2018. Completed papers will be due on September 30, 2018.
 
