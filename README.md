@@ -1,9 +1,8 @@
-<img width=200 src="https://github.com/vera-institute/In-Our-Backyards-Symposium/blob/master/vera-logo.png?raw=true" alt="Vera Institute of Justice Logo"/>
+![Vera Institute of Justice Logo](https://github.com/vera-institute/In-Our-Backyards-Symposium/blob/master/vera-logo.png?raw=true)
 
 # In-Our-Backyards-Symposium
 
-<img width=875 src="https://github.com/vera-institute/In-Our-Backyards-Symposium/blob/master/iob-cfp-banner.jpg?raw=true" alt="Huerfano County Correctional Facility, built in 1997 and operated as a private prison by Corrections Corporation of America. Closed in 2010."/>
-
+![Image: Huerfano County Correctional Facility, built in 1997 and operated as a private prison by Corrections Corporation of America. Closed in 2010.](https://github.com/vera-institute/In-Our-Backyards-Symposium/blob/master/iob-cfp-banner.jpg?raw=true)
 
 The Vera Institute will host a research symposium on incarceration on Thursday and Friday October 25 and 26, 2018. The call for papers is available now. Submissions are due May 8, 2018.
 
