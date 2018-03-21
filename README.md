@@ -9,8 +9,8 @@ The Vera Institute will host a research symposium on incarceration on Thursday a
 All documents associated with the call for papers can be downloaded by
 using the links at the bottom of this page, or as a [zipfile here](https://github.com/vera-institute/In-Our-Backyards-Symposium/archive/master.zip).
 
-For more information about the In Our Backyards project visit:
-https://www.vera.org/projects/in-our-backyards
+For more information about the In Our Backyards project visit: 
+[https://www.vera.org/projects/in-our-backyards](https://www.vera.org/projects/in-our-backyards)
 
 
 **Incarceration**
