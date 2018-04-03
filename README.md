@@ -57,7 +57,7 @@ Photo credit: Jack Norton. Huerfano County Correctional Facility, built in 1997 
 ## Data Sharing<a name="datasharing"></a>
 To get early access to the In Our Backyards dataset you must agree to terms and conditions. These terms are available as a PDF document here: [IOB-Symposium-data-sharing-agreement.pdf](https://github.com/vera-institute/In-Our-Backyards-Symposium/blob/master/IOB-Symposium-data-sharing-agreement.pdf?raw=true)
 
-To Access The Data
+To access the data:
 
 1. [Create a GitHub account](https://github.com/join) if you do not already have one. GitHub is free and signing up for an account is required in order to access and download the data. 
 2. Send an email to <trends@vera.org> indicating that you want to apply to the symposium and provide your github username. We will send a copy of this contract to your email for your electronic signature. 
