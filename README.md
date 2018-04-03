@@ -4,7 +4,7 @@
 
 ![Image: Huerfano County Correctional Facility, built in 1997 and operated as a private prison by Corrections Corporation of America. Closed in 2010.](https://github.com/vera-institute/In-Our-Backyards-Symposium/blob/master/iob-cfp-banner.jpg?raw=true)
 
-The Vera Institute will host a research symposium on incarceration on Thursday and Friday October 25 and 26, 2018. The call for papers is available now. Submissions are due May 8, 2018.
+The Vera Institute will host a research symposium on incarceration on Thursday and Friday October 25 and 26, 2018. The call for papers and data are both available now. Information on data sharing is [below](#datasharing). Submissions are due May 8, 2018.
 
 All documents associated with the call for papers can be downloaded by
 using the links at the bottom of this page, or as a [zipfile here](https://github.com/vera-institute/In-Our-Backyards-Symposium/archive/master.zip).
@@ -52,12 +52,22 @@ Event dates: Thursday and Friday, October 25 and 26, 2018<br>
 Duration: 1.5 day symposium<br>
 Host: The Vera Institute of Justice<br>
 
-
 Photo credit: Jack Norton. Huerfano County Correctional Facility, built in 1997 and operated as a private prison by Corrections Corporation of America. Closed in 2010.
+
+## Data Sharing<a name="datasharing"></a>
+To get early access to the In Our Backyards dataset you must agree to terms and conditions. These terms are available as a PDF document here: [IOB-Symposium-data-sharing-agreement.pdf](https://github.com/vera-institute/In-Our-Backyards-Symposium/blob/master/IOB-Symposium-data-sharing-agreement.pdf?raw=true)
+
+To Access The Data
+
+1. [Create a GitHub account](https://github.com/join) if you do not already have one. GitHub is free and signing up for an account is required in order to access and download the data. 
+2. Send an email to <trends@vera.org> indicating that you want to apply to the symposium and provide your github username. We will send a copy of this contract to your email for your electronic signature. 
+3. Sign the contract. Once it is received by Vera, we will grant you access to the private github group where you can download the dataset.
+
 
 ## Files
 
 - **[IOB-Symposium-CFP.pdf](https://github.com/vera-institute/In-Our-Backyards-Symposium/blob/master/IOB-Symposium-CFP.pdf?raw=true)**: The call for papers
+- **[IOB-Symposium-data-sharing-agreement.pdf](https://github.com/vera-institute/In-Our-Backyards-Symposium/blob/master/IOB-Symposium-data-sharing-agreement.pdf?raw=true)**: Example data sharing agreement
 - **[IOB-Codebook.pdf](https://github.com/vera-institute/In-Our-Backyards-Symposium/blob/master/IOB-Codebook.pdf?raw=true)**: Codebook for the In-Our-Backyards Dataset
 - **[Methodology-for-Incarceration-Trends-Project-V2.pdf](https://github.com/vera-institute/In-Our-Backyards-Symposium/blob/master/Methodology-for-Incarceration-Trends-Project-V2.pdf?raw=true)**: Methods used to generate jail data by county.
 - **[Workingpaper_Reconstructing-How-Counties-Contribute-to-State-Prisons.pdf](https://github.com/vera-institute/In-Our-Backyards-Symposium/blob/master/Workingpaper_Reconstructing-How-Counties-Contribute-to-State-Prisons.pdf?raw=true)**: Methods used to generate prison data by county.
