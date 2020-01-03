@@ -29,7 +29,7 @@ County-level variability makes for more robust, theoretically-grounded studies o
 
 We invite submissions from advanced graduate students, faculty, independent or policy researchers. We expect that a number of papers responsive to this call will provide new insights on the geography and effects of incarceration--the health, social, and economic consequences for individuals and communities--and insight into emerging policy issues and problems. We especially encourage papers that leverage the improved race and gender data, as well as papers on economy and geography. 
 
-Papers are asked to engage with the data that is available, but not all papers need to be quantitative or empirical in nature. We welcome submissions from across the social sciences and humanities, economics and data science.
+Papers are asked to engage with the data that is available, but not all papers need to be quantitative or empirical in nature. We welcome submissions from across the social sciences and humanities, economics and data science. Papers currently under peer review may be submitted.
 
 Submissions should include an abstract of 150-500 words and a brief biographical statement and CV. Please submit all materials by Sunday, February 9, 2020
 
