@@ -2,7 +2,7 @@
 
 # In-Our-Backyards-Symposium
 
-![Image: Huerfano County Correctional Facility, built in 1997 and operated as a private prison by Corrections Corporation of America. Closed in 2010.](https://github.com/vera-institute/In-Our-Backyards-Symposium/blob/master/iob-cfp-banner.jpg?raw=true)
+![Image: Huerfano County Correctional Facility, built in 1997 and operated as a private prison by Corrections Corporation of America. Closed in 2010.](https://github.com/vera-institute/In-Our-Backyards-Symposium/blob/master/iob-cfp-banner.Jpg?raw=true)
 
 The Vera Institute will host a research symposium on incarceration on Thursday and Friday, April 16 and 17, 2020. The call for papers and data are both available now. Information on data sharing is [below](#datasharing). Submissions are due February 9, 2020.
 
