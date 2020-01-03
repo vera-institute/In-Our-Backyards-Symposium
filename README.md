@@ -34,7 +34,7 @@ Papers are asked to engage with the data that is available, but not all papers n
 Submissions should include an abstract of 150-500 words and a brief biographical statement and CV. Please submit all materials by Sunday, February 9, 2020
 
 
-We request that submissions be made through email to <trends@vera.org>.
+We request that submissions be made online at [https://backyards.submittable.com/submit](https://backyards.submittable.com/submit).
 
 If you have questions, please contact Vera at trends@vera.org or Jack Norton by mail at 34 35th Street, 4-2A, Brooklyn, NY 11232.
 
