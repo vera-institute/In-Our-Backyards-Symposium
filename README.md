@@ -58,9 +58,7 @@ Photo credit: Jack Norton, 2016. Lackawanna County Jail. Scranton, PA. <br>
 ## Data Sharing<a name="datasharing"></a>
 The Incarceration Trends dataset is available here: https://github.com/vera-institute/incarceration_trends 
 
-To access to the Incarceration Trends dataset you must agree to a data use license. These terms are available here: [IOB-Symposium-data-sharing-agreement.pdf](https://github.com/vera-institute/In-Our-Backyards-Symposium/blob/master/IOB-Symposium-data-sharing-agreement.pdf?raw=true)
-
-https://github.com/vera-institute/incarceration_trends
+To access to the Incarceration Trends dataset you must agree to a data use license. These terms are available [here.](https://github.com/vera-institute/incarceration_trends/blob/master/License.md)
 
 
 ## Files
