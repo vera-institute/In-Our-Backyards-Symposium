@@ -4,7 +4,7 @@
 
 ![Image: Lackawanna County Jail. Scranton, PA.](https://github.com/vera-institute/In-Our-Backyards-Symposium/blob/master/iob-cfp-banner.Jpg?raw=true)
 
-The Vera Institute will host a research symposium on incarceration on Thursday and Friday, April 16 and 17, 2020. The call for papers and data are both available now. Information on data sharing is [below](#datasharing). Submissions are due February 9, 2020.
+The Vera Institute will host a research symposium on incarceration on Thursday and Friday, April 16 and 17, 2020. The call for papers and data are both available now. Information on data sharing is [below](#datasharing). Submission deadline has been extended -- submissions are due February 16, 2020.
 
 All documents associated with the call for papers can be downloaded by
 using the links at the bottom of this page, or as a [zipfile here](https://github.com/vera-institute/In-Our-Backyards-Symposium/archive/master.zip).
@@ -31,7 +31,7 @@ We invite submissions from advanced graduate students, faculty, independent or p
 
 Papers are asked to engage with the data that is available, but not all papers need to be quantitative or empirical in nature. We welcome submissions from across the social sciences and humanities, economics and data science. Papers currently under peer review may be submitted.
 
-Submissions should include an abstract of 150-500 words and a brief biographical statement and CV. Please submit all materials by Sunday, February 9, 2020
+Submissions should include an abstract of 150-500 words and a brief biographical statement and CV. Please submit all materials by Sunday, February 16, 2020
 
 
 We request that submissions be made online at [https://backyards.submittable.com/submit](https://backyards.submittable.com/submit).
@@ -56,7 +56,7 @@ Host: The Vera Institute of Justice <br>
 Photo credit: Jack Norton, 2016. Lackawanna County Jail. Scranton, PA. <br>
 
 ## Data Sharing<a name="datasharing"></a>
-The Incarceration Trends dataset is available here: https://github.com/vera-institute/incarceration_trends 
+The Incarceration Trends dataset is available here: [https://github.com/vera-institute/incarceration_trends](https://github.com/vera-institute/incarceration_trends) 
 
 To access to the Incarceration Trends dataset you must agree to a data use license. These terms are available [here.](https://github.com/vera-institute/incarceration_trends/blob/master/License.md)
 
