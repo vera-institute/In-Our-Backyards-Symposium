@@ -47,7 +47,7 @@ The Vera Institute of Justice works to build and create justice systems that ens
 
 The symposium and the development of the public-use county-level incarceration dataset is funded through the In Our Backyards project by Google.org as part of its Inclusion and Racial Justice work. In Our Backyards is a Vera’s research and communications agenda to inform the public dialogue, advance research, and guide change to justice policy and practice on mass incarceration.
 
-Submission deadline: February 9, 2020 <br>
+Submission deadline: February 16, 2020 <br>
 Decision by: Feb 26, 2020 <br>
 Location: New York City, New York <br>
 Event dates: April 16 and 17, 2020 <br>
